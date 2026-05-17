@@ -18,6 +18,13 @@ Download:
 
 Verify the fingerprint from me through a separate trusted channel before encrypting files or messages to this key.
 
+## How to use
+
+Open Kleopatra and import the public key by selecting **Import** and choosing their `.asc` file. Before using it, verify the key fingerprint through a separate trusted channel; if it matches, mark/certify the key as trusted if needed. 
+
+To encrypt a file, right-click the file and choose **Encrypt** or **Sign and Encrypt**, select the public key, and send only the generated `.gpg` or `.pgp` file. 
+
+
 ## Notes
 
 | Item | Status | Note |
