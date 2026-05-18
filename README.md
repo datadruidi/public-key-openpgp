@@ -4,8 +4,6 @@ This repository contains my public OpenPGP key.
 
 ## Public Key
 
-Download:
-
 [`datadruidi-public-key.asc`](./datadruidi-public-key.asc)
 
 
