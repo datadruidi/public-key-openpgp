@@ -23,7 +23,7 @@ github.undergrad274@passmail.net
 
 ## How to use
 
-Open Kleopatra and import the public key by selecting **Import** and choosing their `.asc` file. Before using it, verify the key fingerprint through a separate trusted channel; if it matches, mark/certify the key as trusted if needed. 
+Open Kleopatra and import the public key by selecting **Import** and choosing their `.asc` file. Before using it, verify the key fingerprint with me through a separate channel.
 
 To encrypt a file, right-click the file and choose **Encrypt** or **Sign and Encrypt**, select the public key, and send only the generated `.gpg` or `.pgp` file. 
 
