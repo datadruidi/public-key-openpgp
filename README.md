@@ -18,6 +18,12 @@ Download:
 
 Verify the fingerprint from me through a separate trusted channel before encrypting files or messages to this key.
 
+## Email
+
+```text
+github.undergrad274@passmail.net
+```
+
 ## How to use
 
 Open Kleopatra and import the public key by selecting **Import** and choosing their `.asc` file. Before using it, verify the key fingerprint through a separate trusted channel; if it matches, mark/certify the key as trusted if needed. 
